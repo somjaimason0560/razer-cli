@@ -3,3 +3,4 @@ name = "razer-cli"
 version = "0.1.0"
 description = "CLI for configuring Razer devices"
 requires-python = ">=3.10"
+# handle the edge case from the last release
